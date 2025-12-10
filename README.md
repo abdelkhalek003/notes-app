@@ -4,7 +4,7 @@ A simple notes-taking web app that allows creating, editing, and deleting notes 
 
 ## DEMO
 
-Check out the live demo [here]([https://notes-app-demo-link.com](https://prismatic-sopapillas-e8b770.netlify.app/)).
+Check out the live demo <[here]([https://notes-app-demo-link.com](https://prismatic-sopapillas-e8b770.netlify.app/))>.
 
 ## FEATURES
 
