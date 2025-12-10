@@ -21,7 +21,7 @@ Check out the live demo [here](https://notes-app-demo-link.com).
 ## INSTALLATION
 
 1. Clone the repository:
-   git clone <repository-link>
+   git clone <[repository-link](https://github.com/abdelkhalek003/notes-app.git)>
 2. Navigate to the project directory:
    cd notes-app
 3. Open `index.html` in your web browser.
